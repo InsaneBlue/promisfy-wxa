@@ -1,0 +1,19 @@
+{
+  "name": "promisify-wxa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InsaneBlue/promisify-wxa.git"
+  },
+  "author": "alex.liu <469045872@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InsaneBlue/promisify-wxa/issues"
+  },
+  "homepage": "https://github.com/InsaneBlue/promisify-wxa#readme"
+}
